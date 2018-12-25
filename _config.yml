@@ -18,7 +18,7 @@ email: keith@qubitrot.org
 description: >- # this means to ignore newlines until "baseurl:"
     Solutions to challenges in 'Category Theory for Programmers' by Bartosz Milewski 
 baseurl: "/ctfp-solutions/"
-url: "qubitrot.github.io/ctfp-solutions/"
+# url: "qubitrot.github.io/ctfp-solutions/"
 github_username:  qubitrot
 
 permalink: pretty
